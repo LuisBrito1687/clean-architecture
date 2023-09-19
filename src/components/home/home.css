@@ -1,0 +1,71 @@
+/* Home.css */
+
+/* Estilos para el encabezado */
+.navbar {
+    background: linear-gradient(90deg, rgba(129, 223, 202, 1) 0%, rgba(39, 166, 138, 1) 47%, rgba(5, 92, 73, 1) 100%);
+  }
+  
+  /* Estilos para el texto de "¿Quiénes Somos?" */
+  #carreras {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  /* Estilos para el párrafo de "¿Quiénes Somos?" */
+  #carreras + p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    text-align: justify;
+  }
+  
+  /* Estilos para las tarjetas de carreras */
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .details-label {
+    font-size: 12px;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  /* Estilos para las imágenes de las carreras */
+  .card-img-top {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Estilos para el carrusel */
+  .carousel-inner {
+    text-align: center;
+  }
+  
+  .carousel-item img {
+    margin: 0 auto;
+  }
+  
+  /* Estilos para los enlaces de navegación */
+  .txtNav {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Estilos para los botones */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
