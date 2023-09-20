@@ -17,8 +17,6 @@ root.render(
     <About/>
     <Chat/>
     <Contact/>
-    
-    <News/>
 
   </React.StrictMode>
 );

@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="container">
       <div className="col d-flex align-items-center">
-        <img src="./img/perritos.jpg" alt="perrito" height="500" width="auto" />
+        <img src="https://www.diariodemorelos.com/noticias/sites/default/files/field/image/utez_14-01-21.jpg?mrf-size=m" alt="utez" height="auto" width="auto"/>
       </div>
       <h1>¿Quiénes somos?</h1>
       <p>
