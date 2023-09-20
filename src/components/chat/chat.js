@@ -1,5 +1,6 @@
 import React from 'react';
-import "./chat.css"
+import "../../../sources/CSS/styles.css"
+
 function Chat() {
   return (
     <div>

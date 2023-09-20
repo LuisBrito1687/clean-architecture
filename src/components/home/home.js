@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import $ from 'jquery';
-import "./home.css"
+import "../../../sources/CSS/styles.css"
 
 function Home() {
   useEffect(() => {

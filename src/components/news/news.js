@@ -1,5 +1,5 @@
 import React from 'react';
-import "./news.css"
+import "../../../sources/CSS/styles.css"
 
 
 function News() {

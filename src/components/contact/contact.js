@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importa el CSS de Bootstrap
-import "./contact.css"
+import "../../../sources/CSS/styles.css"
 
 function Contact() {
   return (
