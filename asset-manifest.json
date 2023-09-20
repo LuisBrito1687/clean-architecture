@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LuisBrito1687/clean-architecture.git/static/css/main.26800b2c.css",
+    "main.js": "/LuisBrito1687/clean-architecture.git/static/js/main.f5cdaf8e.js",
+    "index.html": "/LuisBrito1687/clean-architecture.git/index.html",
+    "main.26800b2c.css.map": "/LuisBrito1687/clean-architecture.git/static/css/main.26800b2c.css.map",
+    "main.f5cdaf8e.js.map": "/LuisBrito1687/clean-architecture.git/static/js/main.f5cdaf8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26800b2c.css",
+    "static/js/main.f5cdaf8e.js"
+  ]
+}
